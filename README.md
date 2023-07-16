@@ -1,0 +1,2 @@
+# Tribute
+A tribute page
